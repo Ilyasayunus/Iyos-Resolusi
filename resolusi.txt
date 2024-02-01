@@ -3,3 +3,5 @@ resoulusi
 - memaksimalkan waktu untuk belajar
 - tidak malas
 - dekati hal hal yang mendekati cita cita
+- belajar backend
+- belajar javascript
