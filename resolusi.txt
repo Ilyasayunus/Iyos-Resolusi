@@ -2,6 +2,6 @@ resoulusi
 - Konsisten belajar koding
 - memaksimalkan waktu untuk belajar
 - tidak malas
-- dekati hal hal yang mendekati cita cita
 - belajar backend
 - belajar javascript
+- harus bisa belajar sendiri
